@@ -7,7 +7,7 @@ package herancaaula2;
  *
  * @Arrtut e LalaPiresFelizardo
  */
-public class Professor {
+public class Professor extends Pessoa {
 
     private double Salario;
     private String Cursos;
